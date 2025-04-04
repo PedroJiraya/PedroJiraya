@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PedroJiraya
+- 👋 Hi, I’m @PedroPinheiro
 - 👀 I’m interested in FullStack developtment 
 - 🌱 I’m currently learning System Snalysis and Development
 - 💞️ I’m looking to collaborate on ...
