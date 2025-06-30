@@ -1,27 +1,23 @@
-# Olá, eu sou Pedro Pinheiro! 👋
+Olá, eu sou Pedro Pinheiro! 👋
+Sou um estudante apaixonado por tecnologia e desenvolvimento Full Stack, dedicado a criar soluções web robustas e eficientes. Com uma mentalidade voltada para o aprendizado contínuo, estou sempre explorando novas ferramentas e desafios para evoluir como desenvolvedor.
+Sobre Mim
 
-Sou um estudante apaixonado por tecnologia e desenvolvimento Full Stack, com foco em construir soluções completas e eficientes. Tenho uma mentalidade acadêmica voltada para o aprendizado contínuo e estou sempre buscando novos desafios para aprimorar minhas habilidades.
+Interesses: Desenvolvimento Full Stack, aplicações web interativas e resolução de problemas complexos com código.
+Formação Atual: Estudante de Análise e Desenvolvimento de Sistemas, com foco em tecnologias modernas e práticas de programação.
+Objetivo: Construir projetos que integrem front-end e back-end, entregando soluções inovadoras e de alto impacto.
 
-## Sobre Mim
-- **Interesses**: Desenvolvimento Full Stack, criação de aplicações web e resolução de problemas com código.
-- **Formação Atual**: Estudante de Análise e Desenvolvimento de Sistemas, explorando desde fundamentos até tecnologias modernas.
-- **Objetivo**: Desenvolver projetos que unam front-end e back-end, contribuindo para soluções inovadoras e funcionais.
+Tecnologias e Habilidades 🛠️
 
-## O Que Estou Aprendendo 🌱
-- Fundamentos de programação (HTML, CSS, JavaScript).
-- Conceitos de sistemas e lógica de desenvolvimento.
-- Ferramentas e frameworks para criar aplicações escaláveis.
+Dominadas: HTML, CSS, JavaScript, Git, React (componentização, props, useState, useEffect, useReducer, useContext, useRef).
+Estilização: Tailwind CSS para interfaces modernas e responsivas.
+Em Aprendizado: TypeScript, aprofundamento em React e fundamentos de back-end.
+Outras Habilidades: Versionamento com Git, persistência de dados com localStorage, e criação de interfaces acessíveis.
 
-## Colaboração e Contato 💞️
-- Estou aberto a colaborar em projetos open-source ou iniciativas que me permitam crescer como desenvolvedor.
-- **E-mail**: [pedroph12@gmail.com](mailto:pedroph12@gmail.com) – sinta-se à vontade para me contatar!
+Colaboração e Contato 💞️
 
-## Minha Jornada
-Acredito que cada linha de código é uma oportunidade de aprendizado. Meus repositórios refletem meu progresso como iniciante e minha dedicação em evoluir para um desenvolvedor Full Stack completo. Vamos construir algo incrível juntos?
+Estou aberto a colaborar em projetos open-source e iniciativas que impulsionem meu crescimento como desenvolvedor.
+E-mail: pedroph12@gmail.com – sinta-se à vontade para entrar em contato!
 
----
+Minha Jornada
+Cada projeto é uma oportunidade de aprendizado e evolução. Meus repositórios no GitHub mostram minha trajetória, desde projetos iniciais até aplicações mais complexas com React e TypeScript. Vamos criar algo incrível juntos?
 
-<!---
-PedroJiraya/PedroJiraya é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
-Você pode clicar no link de visualização para conferir as mudanças!
---->
